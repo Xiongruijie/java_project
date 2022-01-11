@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.text.quicksearch.internal.ui.QuickSearchDialog.DIALOG_SETTINGS">
+		<item key="LAST_QUERY" value="&#x0D;&#x0A;/**&#x0D;&#x0A; * Learn Java from https://www.liaoxuefeng.com/&#x0D;&#x0A; * &#x0D;&#x0A; * @author liaoxuefeng&#x0D;&#x0A; */&#x0D;&#x0A;public class Main {&#x0D;&#x0A;&#x0D;&#x0A;&#x09;public static void main(String[] args) {&#x0D;&#x0A;&#x09;&#x09;// TODO: 给一个有工资收入和稿费收入的小伙伴算税:&#x0D;&#x0A;Income[] incomes = new Income[] { new Income(3000), new SalaryIncome(7500), new RoyaltyIncome(12000) };&#x0D;&#x0A;&#x09;double total = incomes[0].getTax() + incomes[1].getTax() + incomes[2].getTax();&#x0D;&#x0A;&#x09;// TODO:&#x0D;&#x0A;System.out.println(total);&#x0D;&#x0A;&#x09;}&#x0D;&#x0A;&#x0D;&#x0A;}&#x0D;&#x0A;"/>
+		<item key="PATH_FILTER" value=""/>
+		<item key="CASE_SENSITIVE" value="true"/>
+		<item key="KEEP_OPEN" value="false"/>
+		<list key="COLUMN_WIDTHS">
+			<item value="40"/>
+			<item value="400"/>
+			<item value="114"/>
+		</list>
+		<list key="SASH_WEIGHTS">
+			<item value="714"/>
+			<item value="285"/>
+		</list>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="989"/>
+			<item key="DIALOG_Y_ORIGIN" value="371"/>
+			<item key="DIALOG_FONT_NAME" value="1|Microsoft YaHei UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Microsoft YaHei UI"/>
+		</section>
+	</section>
+</section>
